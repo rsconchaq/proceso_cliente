@@ -1,0 +1,7 @@
+LOG_NAME_REQUEST=ProcesoCliente
+HOME_REQUEST=/home/weblogicap/shells/PROCESO_CLIENTE
+PROPERTIES_PATH=/home/weblogicap/shells/PROCESO_CLIENTE/ProcesoCliente.properties
+DIR_LOG=$HOME_REQUEST/LOG
+JAVA_PATH=/oracle/weblogic/jrockit-jdk1.6.0_29-R28.2.2-4.1.0/bin/
+
+export HOME_REQUEST LOG_NAME_REQUEST PROPERTIES_PATH DIR_LOG JAVA_PATH
